@@ -1,0 +1,3 @@
+This dataset is associated with the manuscript entitled "Are the ventral anterior temporal lobes engaged when processing conceptual knowledge during spoken word production? fMRI evidence from auditory naming" authored by Angelique Volfart, Katie McMahon, Catherine Liegeois-Chauvel, Vitoria Piai and Greig de Zubicaray. 
+It includes raw BOLD fMRI data, field maps and structural T1 images of 25 healthy participants (subjects 004, 019 and 023 were excluded from analysis due to technical issues or incidental findings).
+The task performed by participants during functional runs involves naming to auditory definitions or to environmental sounds, and to reverse definitions or white noise stimuli. 
