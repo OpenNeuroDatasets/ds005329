@@ -1,0 +1,31 @@
+{
+    "onset": {
+        "Description": "Onset of audio stimulus"
+    },
+    "duration": {
+        "Description": "Mandatory column for BIDS format but irrelevant here"
+    },
+    "trial_type": {
+        "Description": "Indicator of stimulus type presented to participant",
+        "Levels": {
+            "Experimental": "An auditory definition is presented",
+            "Control": "A scrambled auditory definition is presented"
+        }
+    },
+    "stimulus": {
+        "Description": "Name of audio stimulus presented"
+    },
+    "cue_onset": {
+        "Description": "Onset of response cue presented visually"
+    },
+    "response_time": {
+        "Description": "Onset of participant’s verbal production"
+    },
+    "accuracy": {
+        "Description": "Accuracy of participant’s response to stimulus",	
+        "Levels": {
+            "0": "Incorrect response",
+            "1": "Correct response"
+        }
+    }
+}
