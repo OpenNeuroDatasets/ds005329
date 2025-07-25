@@ -25,7 +25,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 189.8610812	0	Experimental	./Sounds/whip.wav	191.6690692	191.9430692	0	dog
 196.6944031	0	Control	./Sounds/Sandpapr_CTRL.wav	198.8487038	199.6927038	1	noise
 203.8362319	0	Experimental	./Sounds/Banjo.wav	209.2516742	210.1926742	0	guitar
-214.2702657	0	Control	./Sounds/parrot_CTRL.wav	216.6764765	219.4254765	0	noi… [end of recordings]
+214.2702657	0	Control	./Sounds/parrot_CTRL.wav	216.6764765	219.4254765	0	noi [end of recordings]
 221.6707511	0	Experimental	./Sounds/ZIPPER.wav	223.4132429	224.5382429	1	zip
 228.4196145	0	Control	./Sounds/LION_CTRL.wav	231.7981477	232.3081477	1	noise
 236.8211757	0	Experimental	./Sounds/VIOLIN.wav	241.694815	242.473815	1	violin
