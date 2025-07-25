@@ -1,51 +1,51 @@
-onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy
-1.51087591	0	Control	./Sounds/Tattoo_CTRL.wav	5.3689396	6.1089396	1
-10.40069601	0	Control	./Sounds/Elbow_CTRL.wav	13.190106	13.865106	1
-18.19073681	0	Experimental	./Sounds/Ruler.wav	23.4737649	24.1357649	1
-28.49235651	0	Control	./Sounds/Scarf_CTRL.wav	32.549582	33.341582	1
-37.55705091	0	Control	./Sounds/Puddle_CTRL.wav	40.5166858	41.2636858	1
-45.54980501	0	Experimental	./Sounds/Umbrella.wav	50.2216476	50.7956476	1
-55.24127331	0	Control	./Sounds/Envelope_CTRL.wav	59.0328028	59.9318028	1
-64.04164901	0	Control	./Sounds/Dishwasher_CTRL.wav	68.272409	69.109409	1
-73.27599951	0	Experimental	./Sounds/Kitchen.wav	76.930371	77.560371	1
-81.94233131	0	Control	./Sounds/Calf_CTRL.wav	84.2252195	85.1012195	1
-89.24243011	0	Control	./Sounds/Mustache_CTRL.wav	94.1663956	94.8223956	1
-99.17454351	0	Experimental	./Sounds/Boil.wav	103.6331553	104.3021553	1
-108.6416072	0	Control	./Sounds/Kite_CTRL.wav	113.5479003	114.4439003	1
-118.5656441	0	Control	./Sounds/Ax_CTRL.wav	121.8239855	122.5449855	1
-126.837274	0	Experimental	./Sounds/Crust.wav	130.1233579	130.8633579	1
-135.1250447	0	Control	./Sounds/Razor_CTRL.wav	138.2167951	139.1257951	1
-143.2109934	0	Control	./Sounds/Telescope_CTRL.wav	146.9692751	147.5892751	1
-151.9688499	0	Experimental	./Sounds/Root.wav	155.5526993	156.3446993	1
-160.5524748	0	Experimental	./Sounds/Telescope.wav	164.210756	164.792756	1
-169.2107217	0	Control	./Sounds/Root_CTRL.wav	173.69388	174.40488	1
-178.7254998	0	Control	./Sounds/Sharpen_CTRL.wav	183.3478683	184.1298683	1
-188.3598905	0	Experimental	./Sounds/Pillow.wav	191.8167011	192.5527011	1
-196.8169076	0	Control	./Sounds/Penguin_CTRL.wav	200.5729744	201.2519744	1
-205.5752792	0	Experimental	./Sounds/Sharpen.wav	210.3000075	210.8300075	1
-215.3246192	0	Control	./Sounds/Camel_CTRL.wav	219.1362072	220.0072072	1
-224.1446573	0	Experimental	./Sounds/Submarine.wav	228.2061729	228.7221729	1
-233.217058	0	Experimental	./Sounds/Casino.wav	237.2066688	237.8566688	0
-242.2159737	0	Control	./Sounds/Umbrella_CTRL.wav	246.4888443	247.1218443	1
-251.5012684	0	Control	./Sounds/Library_CTRL.wav	254.6510155	255.2910155	1
-259.6506424	0	Experimental	./Sounds/Scarf.wav	263.0160171	263.5550171	1
-268.0308053	0	Control	./Sounds/Crust_CTRL.wav	271.3249812	272.1239812	1
-276.3418189	0	Experimental	./Sounds/Napkin.wav	279.4401211	280.1291211	1
-284.4417278	0	Control	./Sounds/Dragon_CTRL.wav	287.9738691	288.6588691	1
-292.9838598	0	Experimental	./Sounds/Microphone.wav	297.2891764	297.7951764	1
-302.3015727	0	Experimental	./Sounds/Ax.wav	304.7672948	305.7512948	1
-309.7764427	0	Control	./Sounds/Yolk_CTRL.wav	312.3640637	313.1590637	1
-317.3679688	0	Experimental	./Sounds/Kite.wav	321.872282	322.492282	1
-326.8676956	0	Control	./Sounds/Menu_CTRL.wav	330.556569	331.222569	1
-335.5660061	0	Control	./Sounds/Pillow_CTRL.wav	339.6255077	340.2745077	1
-344.6425579	0	Experimental	./Sounds/Grass.wav	348.0670536	348.5670536	1
-353.0500732	0	Control	./Sounds/Cactus_CTRL.wav	356.6463818	357.2603818	1
-361.6595947	0	Control	./Sounds/Escalator_CTRL.wav	364.3417574	365.2247574	1
-369.3516782	0	Experimental	./Sounds/Bridge.wav	373.4422753	374.1082753	1
-378.4507966	0	Control	./Sounds/Dictionary_CTRL.wav	382.7902116	383.4692116	1
-387.7935034	0	Control	./Sounds/Boil_CTRL.wav	391.9571869	392.8791869	1
-396.9605751	0	Experimental	./Sounds/Wrinkle.wav	400.5173032	401.2223032	1
-405.534896	0	Experimental	./Sounds/Envelope.wav	409.223913	409.807913	1
-414.2346336	0	Control	./Sounds/Straw_CTRL.wav	418.04052	418.78752	1
-423.0316839	0	Experimental	./Sounds/Library.wav	426.3912045	427.0342045	1
-431.4089058	0	Experimental	./Sounds/Pilot.wav	434.5423955	435.2563955	1
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.51087591	0	Control	./Sounds/Tattoo_CTRL.wav	5.3689396	6.1089396	1	noise
+10.40069601	0	Control	./Sounds/Elbow_CTRL.wav	13.190106	13.865106	1	noise
+18.19073681	0	Experimental	./Sounds/Ruler.wav	23.4737649	24.1357649	1	ruler
+28.49235651	0	Control	./Sounds/Scarf_CTRL.wav	32.549582	33.341582	1	noise
+37.55705091	0	Control	./Sounds/Puddle_CTRL.wav	40.5166858	41.2636858	1	noise
+45.54980501	0	Experimental	./Sounds/Umbrella.wav	50.2216476	50.7956476	1	umbrella
+55.24127331	0	Control	./Sounds/Envelope_CTRL.wav	59.0328028	59.9318028	1	noise
+64.04164901	0	Control	./Sounds/Dishwasher_CTRL.wav	68.272409	69.109409	1	noise
+73.27599951	0	Experimental	./Sounds/Kitchen.wav	76.930371	77.560371	1	kitchen
+81.94233131	0	Control	./Sounds/Calf_CTRL.wav	84.2252195	85.1012195	1	noise
+89.24243011	0	Control	./Sounds/Mustache_CTRL.wav	94.1663956	94.8223956	1	noise
+99.17454351	0	Experimental	./Sounds/Boil.wav	103.6331553	104.3021553	1	boil
+108.6416072	0	Control	./Sounds/Kite_CTRL.wav	113.5479003	114.4439003	1	noise
+118.5656441	0	Control	./Sounds/Ax_CTRL.wav	121.8239855	122.5449855	1	noise
+126.837274	0	Experimental	./Sounds/Crust.wav	130.1233579	130.8633579	1	crust
+135.1250447	0	Control	./Sounds/Razor_CTRL.wav	138.2167951	139.1257951	1	noise
+143.2109934	0	Control	./Sounds/Telescope_CTRL.wav	146.9692751	147.5892751	1	noise
+151.9688499	0	Experimental	./Sounds/Root.wav	155.5526993	156.3446993	1	roots
+160.5524748	0	Experimental	./Sounds/Telescope.wav	164.210756	164.792756	1	telescope
+169.2107217	0	Control	./Sounds/Root_CTRL.wav	173.69388	174.40488	1	noise
+178.7254998	0	Control	./Sounds/Sharpen_CTRL.wav	183.3478683	184.1298683	1	noise
+188.3598905	0	Experimental	./Sounds/Pillow.wav	191.8167011	192.5527011	1	pillow
+196.8169076	0	Control	./Sounds/Penguin_CTRL.wav	200.5729744	201.2519744	1	noise
+205.5752792	0	Experimental	./Sounds/Sharpen.wav	210.3000075	210.8300075	1	sharpen
+215.3246192	0	Control	./Sounds/Camel_CTRL.wav	219.1362072	220.0072072	1	noise
+224.1446573	0	Experimental	./Sounds/Submarine.wav	228.2061729	228.7221729	1	submarine
+233.217058	0	Experimental	./Sounds/Casino.wav	237.2066688	237.8566688	0	bank
+242.2159737	0	Control	./Sounds/Umbrella_CTRL.wav	246.4888443	247.1218443	1	noise
+251.5012684	0	Control	./Sounds/Library_CTRL.wav	254.6510155	255.2910155	1	noise
+259.6506424	0	Experimental	./Sounds/Scarf.wav	263.0160171	263.5550171	1	scarf
+268.0308053	0	Control	./Sounds/Crust_CTRL.wav	271.3249812	272.1239812	1	noise
+276.3418189	0	Experimental	./Sounds/Napkin.wav	279.4401211	280.1291211	1	napkin
+284.4417278	0	Control	./Sounds/Dragon_CTRL.wav	287.9738691	288.6588691	1	noise
+292.9838598	0	Experimental	./Sounds/Microphone.wav	297.2891764	297.7951764	1	microphone
+302.3015727	0	Experimental	./Sounds/Ax.wav	304.7672948	305.7512948	1	axe
+309.7764427	0	Control	./Sounds/Yolk_CTRL.wav	312.3640637	313.1590637	1	noise
+317.3679688	0	Experimental	./Sounds/Kite.wav	321.872282	322.492282	1	kite
+326.8676956	0	Control	./Sounds/Menu_CTRL.wav	330.556569	331.222569	1	noise
+335.5660061	0	Control	./Sounds/Pillow_CTRL.wav	339.6255077	340.2745077	1	noise
+344.6425579	0	Experimental	./Sounds/Grass.wav	348.0670536	348.5670536	1	grass
+353.0500732	0	Control	./Sounds/Cactus_CTRL.wav	356.6463818	357.2603818	1	noise
+361.6595947	0	Control	./Sounds/Escalator_CTRL.wav	364.3417574	365.2247574	1	noise
+369.3516782	0	Experimental	./Sounds/Bridge.wav	373.4422753	374.1082753	1	bridge
+378.4507966	0	Control	./Sounds/Dictionary_CTRL.wav	382.7902116	383.4692116	1	noise
+387.7935034	0	Control	./Sounds/Boil_CTRL.wav	391.9571869	392.8791869	1	noise
+396.9605751	0	Experimental	./Sounds/Wrinkle.wav	400.5173032	401.2223032	1	wrinkle
+405.534896	0	Experimental	./Sounds/Envelope.wav	409.223913	409.807913	1	envelope
+414.2346336	0	Control	./Sounds/Straw_CTRL.wav	418.04052	418.78752	1	noise
+423.0316839	0	Experimental	./Sounds/Library.wav	426.3912045	427.0342045	1	library
+431.4089058	0	Experimental	./Sounds/Pilot.wav	434.5423955	435.2563955	1	pilot
