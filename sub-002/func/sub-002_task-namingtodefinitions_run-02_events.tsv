@@ -21,11 +21,11 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 165.2414886	0	Control	./Sounds/Mustache_CTRL.wav	169.456786	170.290786	1	noise
 174.4578206	0	Experimental	./Sounds/Dishwasher.wav	179.473105	180.021105	1	dishwasher
 184.4751555	0	Control	./Sounds/Kite_CTRL.wav	189.8573645	190.4253645	1	noise
-194.8583337	0	Experimental	./Sounds/Sharpen.wav	199.874985	201.016985	0	sh…don't know
+194.8583337	0	Experimental	./Sounds/Sharpen.wav	199.874985	201.016985	0	sh..don't know
 204.8748384	0	Control	./Sounds/Crust_CTRL.wav	208.8413587	209.4093587	1	noise
 213.8411336	0	Experimental	./Sounds/Picnic.wav	217.2075938	217.7405938	1	picnic
 222.2068123	0	Control	./Sounds/Crown_CTRL.wav	225.0406686	225.7236686	1	noise
-230.0411944	0	Experimental	./Sounds/Elbow.wav	233.3080751	234.1230751	0	"elfore,elbow"
+230.0411944	0	Experimental	./Sounds/Elbow.wav	233.3080751	234.1230751	0	elfore,elbow
 238.3072045	0	Control	./Sounds/Microphone_CTRL.wav	242.5076704	243.4566704	1	noise
 247.5041707	0	Experimental	./Sounds/Pilot.wav	251.0236878	251.6626878	1	pilot
 256.0249294	0	Control	./Sounds/Penguin_CTRL.wav	259.7743977	260.3723977	1	noise
