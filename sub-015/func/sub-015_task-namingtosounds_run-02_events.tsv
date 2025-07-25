@@ -1,51 +1,51 @@
-onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy
-1.52798536	0	Experimental	./Sounds/Banjo.wav	6.9281916	7.6411916	0
-11.92894286	0	Experimental	./Sounds/Airplane.wav	16.5287584	17.1637584	1
-21.54458376	0	Control	./Sounds/piano_CTRL.wav	23.5463506	24.2093506	1
-28.54538026	0	Experimental	./Sounds/THUNDER.wav	33.4624498	34.0134498	0
-38.46046866	0	Control	./Sounds/VIOLIN_CTRL.wav	43.7125542	44.4395542	1
-48.72903776	0	Experimental	./Sounds/DONKEY.wav	52.5123095	53.1113095	0
-57.51125796	0	Experimental	./Sounds/TRUMPET.wav	59.8931496	61.5301496	0
-64.89575876	0	Control	./Sounds/whip_CTRL.wav	66.394122	67.260122	1
-71.39474766	0	Experimental	./Sounds/SCREAM.wav	73.7782089	74.1722089	1
-78.77931316	0	Control	./Sounds/tambourine_CTRL.wav	80.3793926	81.1973926	1
-85.37747356	0	Experimental	./Sounds/Whistle.wav	86.8625083	87.6335083	1
-91.86199276	0	Experimental	./Sounds/ROOSTER.wav	94.7613541	95.3703541	1
-99.77811216	0	Control	./Sounds/BOWLING_CTRL.wav	105.5774358	106.2774358	1
-110.5956005	0	Experimental	./Sounds/footsteps.wav	112.9955014	113.7735014	0
-117.9954352	0	Experimental	./Sounds/LION.wav	121.3626544	121.8366544	1
-126.3619442	0	Control	./Sounds/HARP_CTRL.wav	129.245869	129.972869	1
-134.246159	0	Experimental	./Sounds/Baskball.wav	138.0782371	138.5512371	1
-143.0788171	0	Experimental	./Sounds/Flute.wav	148.1607066	149.0007066	1
-153.1615099	0	Control	./Sounds/Woodpckr_CTRL.wav	155.2453207	155.9763207	1
-160.2452478	0	Control	./Sounds/Sandpapr_CTRL.wav	162.3952141	163.1092141	1
-167.4126403	0	Experimental	./Sounds/DUCK.wav	171.0946413	171.8036413	1
-176.1121382	0	Control	./Sounds/snore_CTRL.wav	177.8109116	178.6089116	1
-182.8123031	0	Experimental	./Sounds/frog.wav	184.7126273	185.3786273	1
-189.7118691	0	Control	./Sounds/TRUMPET_CTRL.wav	192.7956888	193.6076888	1
-197.796051	0	Experimental	./Sounds/Motorcyc.wav	202.44302	203.14302	1
-207.4465569	0	Control	./Sounds/HARMONCA_CTRL.wav	212.895604	213.568604	1
-217.8963793	0	Control	./Sounds/ROOSTER_CTRL.wav	220.5122456	221.2292456	1
-225.5123021	0	Experimental	./Sounds/SNEEZE.wav	226.6957329	227.3897329	1
-231.6960222	0	Control	./Sounds/DONKEY_CTRL.wav	235.158869	235.865869	1
-240.1625422	0	Control	./Sounds/TELEPHON_CTRL.wav	242.2627812	242.8487812	1
-247.2625939	0	Experimental	./Sounds/VIOLIN.wav	251.8289804	252.8839804	0
-256.8294589	0	Control	./Sounds/Wolf_CTRL.wav	262.0289806	262.9219806	1
-267.0293183	0	Control	./Sounds/SNEEZE_CTRL.wav	268.8120382	269.4410382	1
-273.812303	0	Experimental	./Sounds/chicken.wav	275.8124774	276.3864774	1
-280.8129131	0	Control	./Sounds/Sawing_CTRL.wav	283.4126536	284.2076536	1
-288.4092356	0	Control	./Sounds/chicken_CTRL.wav	290.709064	291.467064	1
-295.7091087	0	Experimental	./Sounds/Bagpipes.wav	299.3755196	300.9215196	0
-304.3757904	0	Control	./Sounds/helicopter_CTRL.wav	306.6756755	307.5886755	1
-311.6757338	0	Control	./Sounds/guitar_CTRL.wav	313.6758046	314.2848046	1
-318.6765319	0	Experimental	./Sounds/Toilet.wav	323.9457411	324.5407411	1
-328.9627175	0	Experimental	./Sounds/guitar.wav	330.6627138	331.2547138	1
-335.6626706	0	Control	./Sounds/Toilet_CTRL.wav	340.8474627	341.5174627	1
-345.8463251	0	Experimental	./Sounds/Clapping.wav	348.7297282	349.4167282	1
-353.7292196	0	Experimental	./Sounds/TELEPHON.wav	356.2294361	356.7704361	1
-361.229753	0	Control	./Sounds/SHEEP_CTRL.wav	363.5630304	364.1750304	1
-368.5631305	0	Experimental	./Sounds/BURP.wav	369.8127949	370.4857949	1
-374.8125501	0	Experimental	./Sounds/piano.wav	376.812835	377.395835	1
-381.8092189	0	Control	./Sounds/Motorcyc_CTRL.wav	386.8621801	387.4741801	1
-391.8628093	0	Experimental	./Sounds/HARP.wav	394.3592258	395.0162258	0
-399.3628967	0	Experimental	./Sounds/Sawing.wav	401.9626941	402.4516941	1
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.52798536	0	Experimental	./Sounds/Banjo.wav	6.9281916	7.6411916	0	music
+11.92894286	0	Experimental	./Sounds/Airplane.wav	16.5287584	17.1637584	1	aeroplane
+21.54458376	0	Control	./Sounds/piano_CTRL.wav	23.5463506	24.2093506	1	noise
+28.54538026	0	Experimental	./Sounds/THUNDER.wav	33.4624498	34.0134498	0	explosion
+38.46046866	0	Control	./Sounds/VIOLIN_CTRL.wav	43.7125542	44.4395542	1	noise
+48.72903776	0	Experimental	./Sounds/DONKEY.wav	52.5123095	53.1113095	0	pig
+57.51125796	0	Experimental	./Sounds/TRUMPET.wav	59.8931496	61.5301496	0	don't know
+64.89575876	0	Control	./Sounds/whip_CTRL.wav	66.394122	67.260122	1	noise
+71.39474766	0	Experimental	./Sounds/SCREAM.wav	73.7782089	74.1722089	1	scream
+78.77931316	0	Control	./Sounds/tambourine_CTRL.wav	80.3793926	81.1973926	1	noise
+85.37747356	0	Experimental	./Sounds/Whistle.wav	86.8625083	87.6335083	1	whistle
+91.86199276	0	Experimental	./Sounds/ROOSTER.wav	94.7613541	95.3703541	1	rooster
+99.77811216	0	Control	./Sounds/BOWLING_CTRL.wav	105.5774358	106.2774358	1	noise
+110.5956005	0	Experimental	./Sounds/footsteps.wav	112.9955014	113.7735014	0	knock
+117.9954352	0	Experimental	./Sounds/LION.wav	121.3626544	121.8366544	1	lion
+126.3619442	0	Control	./Sounds/HARP_CTRL.wav	129.245869	129.972869	1	noise
+134.246159	0	Experimental	./Sounds/Baskball.wav	138.0782371	138.5512371	1	basketball
+143.0788171	0	Experimental	./Sounds/Flute.wav	148.1607066	149.0007066	1	flute
+153.1615099	0	Control	./Sounds/Woodpckr_CTRL.wav	155.2453207	155.9763207	1	noise
+160.2452478	0	Control	./Sounds/Sandpapr_CTRL.wav	162.3952141	163.1092141	1	noise
+167.4126403	0	Experimental	./Sounds/DUCK.wav	171.0946413	171.8036413	1	duck
+176.1121382	0	Control	./Sounds/snore_CTRL.wav	177.8109116	178.6089116	1	noise
+182.8123031	0	Experimental	./Sounds/frog.wav	184.7126273	185.3786273	1	frog
+189.7118691	0	Control	./Sounds/TRUMPET_CTRL.wav	192.7956888	193.6076888	1	noise
+197.796051	0	Experimental	./Sounds/Motorcyc.wav	202.44302	203.14302	1	motorbike
+207.4465569	0	Control	./Sounds/HARMONCA_CTRL.wav	212.895604	213.568604	1	noise
+217.8963793	0	Control	./Sounds/ROOSTER_CTRL.wav	220.5122456	221.2292456	1	noise
+225.5123021	0	Experimental	./Sounds/SNEEZE.wav	226.6957329	227.3897329	1	sneeze
+231.6960222	0	Control	./Sounds/DONKEY_CTRL.wav	235.158869	235.865869	1	noise
+240.1625422	0	Control	./Sounds/TELEPHON_CTRL.wav	242.2627812	242.8487812	1	noise
+247.2625939	0	Experimental	./Sounds/VIOLIN.wav	251.8289804	252.8839804	0	flute
+256.8294589	0	Control	./Sounds/Wolf_CTRL.wav	262.0289806	262.9219806	1	noise
+267.0293183	0	Control	./Sounds/SNEEZE_CTRL.wav	268.8120382	269.4410382	1	noise
+273.812303	0	Experimental	./Sounds/chicken.wav	275.8124774	276.3864774	1	chicken
+280.8129131	0	Control	./Sounds/Sawing_CTRL.wav	283.4126536	284.2076536	1	noise
+288.4092356	0	Control	./Sounds/chicken_CTRL.wav	290.709064	291.467064	1	noise
+295.7091087	0	Experimental	./Sounds/Bagpipes.wav	299.3755196	300.9215196	0	don't know
+304.3757904	0	Control	./Sounds/helicopter_CTRL.wav	306.6756755	307.5886755	1	noise
+311.6757338	0	Control	./Sounds/guitar_CTRL.wav	313.6758046	314.2848046	1	noise
+318.6765319	0	Experimental	./Sounds/Toilet.wav	323.9457411	324.5407411	1	toilet
+328.9627175	0	Experimental	./Sounds/guitar.wav	330.6627138	331.2547138	1	guitar
+335.6626706	0	Control	./Sounds/Toilet_CTRL.wav	340.8474627	341.5174627	1	noise
+345.8463251	0	Experimental	./Sounds/Clapping.wav	348.7297282	349.4167282	1	clap
+353.7292196	0	Experimental	./Sounds/TELEPHON.wav	356.2294361	356.7704361	1	phone
+361.229753	0	Control	./Sounds/SHEEP_CTRL.wav	363.5630304	364.1750304	1	noise
+368.5631305	0	Experimental	./Sounds/BURP.wav	369.8127949	370.4857949	1	burp
+374.8125501	0	Experimental	./Sounds/piano.wav	376.812835	377.395835	1	piano
+381.8092189	0	Control	./Sounds/Motorcyc_CTRL.wav	386.8621801	387.4741801	1	noise
+391.8628093	0	Experimental	./Sounds/HARP.wav	394.3592258	395.0162258	0	telephone
+399.3628967	0	Experimental	./Sounds/Sawing.wav	401.9626941	402.4516941	1	saw
