@@ -8,8 +8,8 @@
     "trial_type": {
         "Description": "Indicator of stimulus type presented to participant",
         "Levels": {
-            "Experimental": "An auditory definition is presented",
-            "Control": "A scrambled auditory definition is presented"
+            "Experimental": "An environmental sound is presented",
+            "Control": "A white noise sound is presented"
         }
     },
     "stimulus": {
