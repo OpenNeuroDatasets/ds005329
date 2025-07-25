@@ -12,7 +12,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 89.18637661	0	Control	./Sounds/Goggles_CTRL.wav	92.7103449	93.2953449	1	noise
 97.71894481	0	Experimental	./Sounds/Telescope.wav	100.6912957	101.4672957	1	telescope
 105.7004741	0	Experimental	./Sounds/Dictionary.wav	109.4293418	109.9553418	1	dictionary
-114.452521	0	Control	./Sounds/Escalator_CTRL.wav	117.9504204	n/a	0	[started speaking before cue] …oise
+114.452521	0	Control	./Sounds/Escalator_CTRL.wav	117.9504204	n/a	0	[started speaking before cue] oise
 122.9432469	0	Experimental	./Sounds/Scale.wav	126.383398	127.361398	0	don't know
 131.3711878	0	Experimental	./Sounds/Pilot.wav	134.2046395	134.8866395	1	pilot
 139.204564	0	Control	./Sounds/Kite_CTRL.wav	143.7087949	144.6367949	1	noise

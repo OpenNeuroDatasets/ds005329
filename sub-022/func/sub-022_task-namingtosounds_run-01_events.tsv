@@ -2,7 +2,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 1.51120731	0	Control	./Sounds/SAX_CTRL.wav	7.7279891	8.5979891	1	noise
 12.72768411	0	Experimental	./Sounds/Whistle.wav	14.7114941	n/a	0	"[started speaking before cue, unintelligible]"
 19.71783701	0	Control	./Sounds/footsteps_CTRL.wav	21.4170241	22.3000241	1	noise
-26.43387181	0	Experimental	./Sounds/clock.wav	28.742047	n/a	0	[started speaking before cue] …ock
+26.43387181	0	Experimental	./Sounds/clock.wav	28.742047	n/a	0	[started speaking before cue] ock
 33.74854901	0	Experimental	./Sounds/GARGLING.wav	37.0335553	37.4105553	0	mouth
 42.04156481	0	Control	./Sounds/DUCK_CTRL.wav	45.8493992	46.7543992	1	noise
 50.85458681	0	Experimental	./Sounds/whip.wav	53.2670999	54.1790999	0	whack
