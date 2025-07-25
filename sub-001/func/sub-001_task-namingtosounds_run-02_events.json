@@ -8,8 +8,8 @@
     "trial_type": {
         "Description": "Indicator of stimulus type presented to participant",
         "Levels": {
-            "Experimental": "An environmental sound is presented",
-            "Control": "A white noise sound is presented"
+            "Experimental": "An auditory definition is presented",
+            "Control": "A scrambled auditory definition is presented"
         }
     },
     "stimulus": {
@@ -27,5 +27,8 @@
             "0": "Incorrect response",
             "1": "Correct response"
         }
+    },
+    "verbal_response": {
+        "Description": "Transcript of the participant's verbal response"
     }
 }
