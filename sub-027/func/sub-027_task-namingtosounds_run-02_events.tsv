@@ -36,7 +36,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 273.7582595	0	Control	./Sounds/clock_CTRL.wav	275.2741366	276.4391366	1	noise
 280.2788035	0	Experimental	./Sounds/DONKEY.wav	283.449807	283.972807	0	pig
 288.4438432	0	Control	./Sounds/Sandpapr_CTRL.wav	291.189661	292.098661	1	noise
-296.2029699	0	Control	./Sounds/ROOSTER_CTRL.wav	299.2256304	n/a	0	…
+296.2029699	0	Control	./Sounds/ROOSTER_CTRL.wav	299.2256304	n/a	0	...
 304.2023527	0	Experimental	./Sounds/DOORBELL.wav	307.1989034	307.5959034	1	doorbell
 312.2008259	0	Control	./Sounds/tambourine_CTRL.wav	314.1089198	314.4409198	1	noise
 319.1026611	0	Control	./Sounds/helicopter_CTRL.wav	320.8077806	321.7257806	1	noise
