@@ -5,7 +5,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 26.89081388	0	Control	./Sounds/Sharpen_CTRL.wav	31.4069213	32.1079213	1	noise
 36.40696388	0	Control	./Sounds/Picnic_CTRL.wav	39.9739503	40.5519503	1	noise
 44.97394228	0	Experimental	./Sounds/Yolk.wav	48.2740162	49.0050162	1	yolk
-53.27424988	0	Control	./Sounds/Casino_CTRL.wav	56.7399086	n/a	0	…
+53.27424988	0	Control	./Sounds/Casino_CTRL.wav	56.7399086	n/a	0	...
 61.74089498	0	Control	./Sounds/Goggles_CTRL.wav	65.1571772	65.8241772	1	noise
 70.15701998	0	Experimental	./Sounds/Dishwasher.wav	75.074103	75.558103	0	sponge
 80.09107068	0	Experimental	./Sounds/Razor.wav	82.8740717	83.4040717	1	razor
