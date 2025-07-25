@@ -20,7 +20,7 @@ onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_respo
 145.4670674	0	Experimental	./Sounds/chicken.wav	147.867079	148.544079	1	chicken
 152.8661495	0	Experimental	./Sounds/Sandpapr.wav	154.9162636	155.5872636	1	sandpaper
 159.9158739	0	Control	./Sounds/THUNDER_CTRL.wav	164.5334471	165.0884471	1	noise
-169.5334176	0	Experimental	./Sounds/turkey.wav	171.2331551	173.9821551	0	tur…[end of recording]
+169.5334176	0	Experimental	./Sounds/turkey.wav	171.2331551	173.9821551	0	tur [end of recording]
 176.2336363	0	Experimental	./Sounds/clock.wav	177.9331523	178.8391523	0	i don't know
 182.9332027	0	Control	./Sounds/piano_CTRL.wav	184.8331584	185.3091584	1	noise
 189.8332207	0	Experimental	./Sounds/LION.wav	193.0999258	193.7159258	1	lion
