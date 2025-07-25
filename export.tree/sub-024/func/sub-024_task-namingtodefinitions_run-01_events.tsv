@@ -1,0 +1,51 @@
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.51117301	0	Experimental	./Sounds/Dragon.wav	5.3285	6.0095	1	dragon
+10.32819551	0	Control	./Sounds/Napkin_CTRL.wav	13.7200372	14.4600372	1	noise
+18.72008011	0	Control	./Sounds/Calf_CTRL.wav	20.7863769	21.5933769	1	noise
+25.78646551	0	Experimental	./Sounds/Grass.wav	29.003305	29.966305	0	don't know
+34.00330871	0	Experimental	./Sounds/Library.wav	37.1495136	37.6205136	1	library
+42.15885601	0	Control	./Sounds/Atlas_CTRL.wav	45.1309685	45.8209685	1	noise
+50.14241971	0	Experimental	./Sounds/Penguin.wav	53.9926452	54.6096452	1	penguin
+58.99210901	0	Experimental	./Sounds/Apron.wav	62.6916068	63.3236068	1	apron
+67.69301551	0	Control	./Sounds/Claw_CTRL.wav	71.9170315	72.5430315	1	noise
+76.92599361	0	Experimental	./Sounds/Telescope.wav	80.5847402	81.2407402	1	telescope
+85.60910311	0	Control	./Sounds/Mustache_CTRL.wav	90.4318605	91.2068605	1	noise
+95.43423331	0	Experimental	./Sounds/Onion.wav	98.5756628	99.3586628	1	onion
+103.5850451	0	Control	./Sounds/Microphone_CTRL.wav	107.5845984	108.3755984	1	noise
+112.6048576	0	Control	./Sounds/Onion_CTRL.wav	116.2453996	116.9353996	1	noise
+121.2664991	0	Experimental	./Sounds/Cactus.wav	124.9392474	125.5552474	1	cactus
+129.9516049	0	Control	./Sounds/Picnic_CTRL.wav	133.0408053	133.5728053	1	noise
+138.0518245	0	Control	./Sounds/Ruler_CTRL.wav	143.549975	144.198975	1	noise
+148.5475251	0	Experimental	./Sounds/Umbrella.wav	152.5333321	153.2243321	1	umbrella
+157.5417868	0	Control	./Sounds/Scale_CTRL.wav	160.2665493	160.9315493	1	noise
+165.2663816	0	Control	./Sounds/Island_CTRL.wav	169.1078495	169.6418495	1	noise
+174.1115547	0	Experimental	./Sounds/Scale.wav	177.4452388	178.3442388	0	don't know
+182.4363338	0	Control	./Sounds/Dragon_CTRL.wav	185.8466534	186.5516534	1	noise
+190.8677988	0	Experimental	./Sounds/Goggles.wav	194.6067805	195.3957805	1	goggles
+199.6092815	0	Control	./Sounds/Sharpen_CTRL.wav	204.53165	205.26665	1	noise
+209.5422854	0	Experimental	./Sounds/Puddle.wav	213.2975558	213.9435558	1	puddle
+218.2929331	0	Control	./Sounds/Boil_CTRL.wav	222.9514954	224.1104954	1	noise
+227.9578378	0	Experimental	./Sounds/Elbow.wav	231.4353745	231.9823745	1	elbow
+236.4676023	0	Control	./Sounds/Umbrella_CTRL.wav	240.5404567	241.0344567	1	noise
+245.5457556	0	Control	./Sounds/Elbow_CTRL.wav	248.8261988	249.3911988	1	noise
+253.8420198	0	Experimental	./Sounds/Thermometer.wav	257.1233394	257.7503394	1	thermometer
+262.141413	0	Control	./Sounds/Escalator_CTRL.wav	265.5115869	266.0265869	1	noise
+270.5425401	0	Experimental	./Sounds/Island.wav	274.5766495	275.1616495	1	island
+279.592423	0	Experimental	./Sounds/Tattoo.wav	283.95127	284.52627	1	tattoo
+288.9762353	0	Control	./Sounds/Pilot_CTRL.wav	292.2158489	292.7748489	1	noise
+297.2239751	0	Control	./Sounds/Menu_CTRL.wav	300.6096439	301.2066439	1	noise
+305.618973	0	Experimental	./Sounds/Picnic.wav	308.9006843	309.5326843	1	picnic
+313.9096824	0	Experimental	./Sounds/Bridge.wav	317.9991251	318.6231251	1	bridge
+323.0104764	0	Control	./Sounds/Camel_CTRL.wav	327.434867	327.928867	1	noise
+332.4511464	0	Experimental	./Sounds/Scarf.wav	336.4152464	336.9062464	1	scarf
+341.4339103	0	Experimental	./Sounds/Blizzard.wav	344.2403684	345.5873684	0	don't know
+349.2505357	0	Control	./Sounds/Ax_CTRL.wav	352.4178415	353.0148415	1	noise
+357.4284956	0	Experimental	./Sounds/Escalator.wav	360.2124289	360.7524289	1	escalator
+365.2253697	0	Experimental	./Sounds/Straw.wav	369.1488624	369.6548624	0	don't know
+374.1603421	0	Control	./Sounds/Root_CTRL.wav	378.6478618	379.1618618	1	noise
+383.6665194	0	Experimental	./Sounds/Mustache.wav	387.8969964	388.5169964	1	mustache
+392.9103843	0	Control	./Sounds/Goggles_CTRL.wav	396.5422458	397.1562458	1	noise
+401.5673993	0	Experimental	./Sounds/Razor.wav	404.6596123	405.2996123	1	razor
+409.6763958	0	Control	./Sounds/Petrol_CTRL.wav	413.0178462	413.5398462	1	noise
+418.0418479	0	Control	./Sounds/Library_CTRL.wav	420.7835084	421.4215084	1	noise
+425.81024	0	Experimental	./Sounds/Dishwasher.wav	430.0236154	431.3006154	0	don't know

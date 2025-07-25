@@ -1,0 +1,51 @@
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.52238095	0	Experimental	./Sounds/Ocean.wav	8.307919	9.411919	0	car
+13.30836285	0	Control	./Sounds/piano_CTRL.wav	15.6069679	15.9939679	1	noise
+20.60742895	0	Control	./Sounds/DONKEY_CTRL.wav	23.6725997	24.1755997	1	noise
+28.67390145	0	Experimental	./Sounds/Flute.wav	33.340094	33.938094	1	flute
+38.34023825	0	Control	./Sounds/GARGLING_CTRL.wav	42.1242212	42.6372212	1	noise
+47.12484475	0	Control	./Sounds/HARMONCA_CTRL.wav	52.1741688	52.7311688	1	noise
+57.17486715	0	Experimental	./Sounds/DOORBELL.wav	59.5740112	60.3250112	1	doorbell
+64.57117805	0	Control	./Sounds/gong_CTRL.wav	66.6735256	67.0875256	1	noise
+71.67495995	0	Control	./Sounds/Sandpapr_CTRL.wav	74.0243984	74.5583984	1	noise
+79.02427475	0	Experimental	./Sounds/Woodpckr.wav	81.2075903	82.7505903	0	don't know
+86.20513555	0	Control	./Sounds/guitar_CTRL.wav	88.2078957	89.2358957	1	noise
+93.20760555	0	Control	./Sounds/clock_CTRL.wav	95.1075126	95.7775126	1	noise
+100.107647	0	Experimental	./Sounds/DONKEY.wav	103.7739216	104.4699216	1	donkey
+108.7747101	0	Experimental	./Sounds/whip.wav	110.6741708	112.5061708	0	don't know
+115.6742575	0	Control	./Sounds/helicopter_CTRL.wav	117.7739205	118.3419205	1	noise
+122.7746221	0	Experimental	./Sounds/GARGLING.wav	125.9576153	126.9956153	0	mouth
+130.9577701	0	Experimental	./Sounds/Sandpapr.wav	132.8070799	133.6320799	0	brush
+137.8081191	0	Control	./Sounds/Motorcyc_CTRL.wav	142.557656	143.186656	1	noise
+147.5575531	0	Experimental	./Sounds/tambourine.wav	149.4575672	151.3925672	0	don't know
+154.4575821	0	Experimental	./Sounds/Airplane.wav	159.2575713	159.7155713	1	airplane
+164.253982	0	Control	./Sounds/turkey_CTRL.wav	166.157724	166.651724	1	noise
+171.1544876	0	Control	./Sounds/Airplane_CTRL.wav	175.5573292	176.5203292	1	noise
+180.5576775	0	Experimental	./Sounds/TELEPHON.wav	183.3570797	183.8450797	1	telephone
+188.3576592	0	Experimental	./Sounds/bicycle.wav	189.8578756	191.3348756	1	bike bell
+194.8579785	0	Control	./Sounds/Toilet_CTRL.wav	199.9414088	200.6594088	1	noise
+204.9416114	0	Control	./Sounds/ROOSTER_CTRL.wav	207.7414109	208.2644109	1	noise
+212.7577227	0	Experimental	./Sounds/TRUMPET.wav	215.6390923	216.1330923	1	trumpet
+220.6415387	0	Experimental	./Sounds/frog.wav	222.8408044	223.4208044	1	frog
+227.8376077	0	Control	./Sounds/tambourine_CTRL.wav	230.0410579	230.6260579	1	noise
+235.0409249	0	Control	./Sounds/Sawing_CTRL.wav	237.6410863	238.1680863	1	noise
+242.641457	0	Experimental	./Sounds/chicken.wav	244.7374476	245.2364476	1	chicken
+249.7413424	0	Control	./Sounds/SAX_CTRL.wav	256.3586193	256.8986193	1	noise
+261.3748695	0	Experimental	./Sounds/BURP.wav	262.5246431	263.6586431	0	mouth
+267.5251971	0	Experimental	./Sounds/parrot.wav	269.8240611	271.1400611	0	bird
+274.8247129	0	Control	./Sounds/Bagpipes_CTRL.wav	278.0911485	278.6681485	1	noise
+283.0748931	0	Experimental	./Sounds/SCREAM.wav	284.5758412	285.3488412	1	scream
+289.5746967	0	Experimental	./Sounds/Bagpipes.wav	293.340979	293.833979	1	bagpipe
+298.3410212	0	Control	./Sounds/DOORBELL_CTRL.wav	301.0410761	301.5520761	1	noise
+306.0411542	0	Experimental	./Sounds/VIOLIN.wav	311.1910361	311.7080361	1	violin
+316.1911572	0	Experimental	./Sounds/Motorcyc.wav	320.6241514	321.1721514	1	motorbike
+325.6250192	0	Control	./Sounds/Flute_CTRL.wav	330.7904543	331.2624543	1	noise
+335.7910665	0	Experimental	./Sounds/turkey.wav	337.8908161	338.3448161	1	turkey
+342.8873658	0	Experimental	./Sounds/guitar.wav	344.4736686	345.1846686	1	guitar
+349.4747707	0	Control	./Sounds/monkey_CTRL.wav	351.0745729	351.8565729	1	noise
+356.0748674	0	Experimental	./Sounds/SNEEZE.wav	357.957048	358.315048	1	sneeze
+362.9576868	0	Experimental	./Sounds/LION.wav	366.2233409	366.9913409	1	lion
+371.2248864	0	Control	./Sounds/snore_CTRL.wav	373.2249358	373.7349358	1	noise
+378.2246899	0	Experimental	./Sounds/piano.wav	380.1259379	380.8529379	1	piano
+385.1238454	0	Experimental	./Sounds/Sawing.wav	387.825917	388.320917	1	saw
+392.8246999	0	Control	./Sounds/Wolf_CTRL.wav	397.1410037	397.8480037	1	noise

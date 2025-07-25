@@ -1,0 +1,51 @@
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.51472528	0	Control	./Sounds/Toilet_CTRL.wav	6.8061857	6.8691857	1	noise
+11.82090308	0	Experimental	./Sounds/BURP.wav	12.7922578	14.0142578	1	burp
+17.80435638	0	Control	./Sounds/HARMONCA_CTRL.wav	22.770501	23.390501	1	noise
+27.78730168	0	Control	./Sounds/whip_CTRL.wav	29.2850078	29.9250078	1	noise
+34.30461198	0	Experimental	./Sounds/tambourine.wav	36.3093953	37.0463953	0	don't know
+41.32860468	0	Experimental	./Sounds/DONKEY.wav	44.9954872	45.8904872	1	donkey
+50.00298158	0	Control	./Sounds/Bagpipes_CTRL.wav	53.7792001	54.8242001	1	noise
+58.80320458	0	Experimental	./Sounds/Crow.wav	62.4179014	63.3399014	0	bird
+67.41942188	0	Control	./Sounds/HARP_CTRL.wav	70.7185435	71.3515435	1	noise
+75.72106778	0	Control	./Sounds/SNEEZE_CTRL.wav	77.2202481	77.8312481	1	noise
+82.23686668	0	Experimental	./Sounds/HARP.wav	84.6353976	86.1733976	0	music
+89.65303008	0	Control	./Sounds/chicken_CTRL.wav	91.6599324	92.5619324	1	noise
+96.66945668	0	Control	./Sounds/SAX_CTRL.wav	103.0940892	103.8960892	1	noise
+108.104674	0	Experimental	./Sounds/parrot.wav	109.9179857	110.9639857	0	don't know
+114.9290646	0	Control	./Sounds/Motorcyc_CTRL.wav	119.9778185	120.8958185	1	noise
+124.9929708	0	Control	./Sounds/piano_CTRL.wav	126.6828078	127.5168078	1	noise
+131.6892036	0	Experimental	./Sounds/Motorcyc.wav	136.4306033	137.0346033	1	motorbike
+141.4535659	0	Experimental	./Sounds/turkey.wav	143.2581185	144.2641185	1	turkey
+148.2623323	0	Control	./Sounds/gong_CTRL.wav	150.5764493	151.2974493	1	noise
+155.5880673	0	Control	./Sounds/DONKEY_CTRL.wav	159.0618917	159.7918917	1	noise
+164.0527478	0	Experimental	./Sounds/guitar.wav	166.3618109	167.3588109	0	music
+171.3626782	0	Control	./Sounds/DUCK_CTRL.wav	174.8708738	175.7308738	1	noise
+179.8771392	0	Experimental	./Sounds/Flute.wav	184.848233	185.604233	1	flute
+189.8610812	0	Experimental	./Sounds/whip.wav	191.6690692	191.9430692	0	dog
+196.6944031	0	Control	./Sounds/Sandpapr_CTRL.wav	198.8487038	199.6927038	1	noise
+203.8362319	0	Experimental	./Sounds/Banjo.wav	209.2516742	210.1926742	0	guitar
+214.2702657	0	Control	./Sounds/parrot_CTRL.wav	216.6764765	219.4254765	0	noi [end of recordings]
+221.6707511	0	Experimental	./Sounds/ZIPPER.wav	223.4132429	224.5382429	1	zip
+228.4196145	0	Control	./Sounds/LION_CTRL.wav	231.7981477	232.3081477	1	noise
+236.8211757	0	Experimental	./Sounds/VIOLIN.wav	241.694815	242.473815	1	violin
+246.6872254	0	Experimental	./Sounds/snore.wav	248.7951296	249.7801296	0	don't know
+253.7956995	0	Control	./Sounds/tambourine_CTRL.wav	255.3036352	256.2646352	1	noise
+260.2943648	0	Control	./Sounds/clock_CTRL.wav	261.903168	262.708168	1	noise
+266.9280622	0	Experimental	./Sounds/SHEEP.wav	268.5671506	269.2551506	1	sheep
+273.5706202	0	Control	./Sounds/ZIPPER_CTRL.wav	275.8120319	276.6040319	1	noise
+280.8380874	0	Experimental	./Sounds/Baskball.wav	284.2699554	285.0099554	1	basketball
+289.2950112	0	Experimental	./Sounds/DUCK.wav	293.4949771	294.4009771	1	duck
+298.5208995	0	Control	./Sounds/SCREAM_CTRL.wav	300.8112189	301.6392189	1	noise
+305.8299195	0	Experimental	./Sounds/Toilet.wav	311.41834	311.99734	1	toilet
+316.4281709	0	Experimental	./Sounds/Wolf.wav	321.3372488	322.1712488	1	wolf
+326.3454274	0	Control	./Sounds/TELEPHON_CTRL.wav	328.7599105	329.4899105	1	noise
+333.7688503	0	Experimental	./Sounds/ROOSTER.wav	336.7030331	337.3170331	1	rooster
+341.7109255	0	Experimental	./Sounds/Sandpapr.wav	344.2620498	345.6060498	0	don't know
+349.2778621	0	Control	./Sounds/BURP_CTRL.wav	350.7518808	351.4758808	1	noise
+355.7532432	0	Experimental	./Sounds/DOORBELL.wav	358.7513824	359.2903824	1	doorbell
+363.7619357	0	Experimental	./Sounds/helicopter.wav	365.5699521	366.7839521	0	don't know
+370.5865702	0	Control	./Sounds/DOORBELL_CTRL.wav	373.076978	373.755978	1	noise
+378.0878998	0	Experimental	./Sounds/Airplane.wav	382.7949051	384.3419051	1	plane
+387.7849552	0	Experimental	./Sounds/frog.wav	389.7916264	390.4996264	1	frog
+394.8047523	0	Control	./Sounds/THUNDER_CTRL.wav	399.7275869	400.3445869	1	noise
