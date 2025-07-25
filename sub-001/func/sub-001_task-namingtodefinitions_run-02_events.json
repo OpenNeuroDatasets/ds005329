@@ -27,5 +27,8 @@
             "0": "Incorrect response",
             "1": "Correct response"
         }
+    },
+    "verbal_response": {
+        "Description": "Transcript of the participant's verbal response"
     }
 }
