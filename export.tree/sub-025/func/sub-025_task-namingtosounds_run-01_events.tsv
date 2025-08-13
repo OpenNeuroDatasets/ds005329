@@ -1,0 +1,51 @@
+onset	duration	trial_type	stimulus	cue_onset	response_time	accuracy	verbal_response
+1.50727999	0	Control	./Sounds/LION_CTRL.wav	4.2824008	4.9874008	1	noise
+9.31398569	0	Experimental	./Sounds/Sawing.wav	11.9213443	12.5753443	0	don't know
+16.92948539	0	Control	./Sounds/Bagpipes_CTRL.wav	20.4027924	20.9937924	1	noise
+25.41363519	0	Experimental	./Sounds/DONKEY.wav	28.3952064	29.0152064	1	donkey
+33.39710169	0	Control	./Sounds/Clapping_CTRL.wav	35.9972196	36.5622196	1	noise
+41.01356599	0	Control	./Sounds/Motorcyc_CTRL.wav	46.0490325	47.0090325	1	noise
+51.04890479	0	Experimental	./Sounds/SHEEP.wav	53.2825371	54.0625371	1	sheep
+58.29693519	0	Control	./Sounds/bicycle_CTRL.wav	60.505521	61.453521	1	noise
+65.51396919	0	Control	./Sounds/monkey_CTRL.wav	67.9205631	68.8065631	1	noise
+72.92919739	0	Experimental	./Sounds/Ocean.wav	80.0198496	80.7988496	0	thunder
+85.03019329	0	Control	./Sounds/GARGLING_CTRL.wav	88.6199428	89.5679428	1	noise
+93.62979459	0	Control	./Sounds/turkey_CTRL.wav	95.9450277	96.6660277	1	noise
+100.9407146	0	Experimental	./Sounds/guitar.wav	102.7610523	103.3810523	0	music
+107.7644248	0	Control	./Sounds/TELEPHON_CTRL.wav	109.8595534	110.4345534	1	noise
+114.8789977	0	Experimental	./Sounds/SNEEZE.wav	116.6849915	117.1709915	1	sneeze
+121.6818433	0	Experimental	./Sounds/tambourine.wav	123.6793599	124.5423599	0	not sure
+128.6887195	0	Control	./Sounds/DUCK_CTRL.wav	132.296088	132.903088	1	noise
+137.3081437	0	Control	./Sounds/THUNDER_CTRL.wav	141.9382755	142.7332755	1	noise
+146.9452158	0	Experimental	./Sounds/TRUMPET.wav	150.0381795	150.8431795	1	trumpet
+155.0628946	0	Control	./Sounds/frog_CTRL.wav	157.3553356	158.1183356	1	noise
+162.3717485	0	Control	./Sounds/gong_CTRL.wav	164.7792102	165.5812102	1	noise
+169.8051703	0	Experimental	./Sounds/ROOSTER.wav	172.725841	173.229841	1	rooster
+177.721449	0	Control	./Sounds/SAX_CTRL.wav	184.1515678	184.8695678	1	noise
+189.1644094	0	Control	./Sounds/OWL_CTRL.wav	191.7858965	192.3798965	1	noise
+196.8050841	0	Experimental	./Sounds/bicycle.wav	198.5102849	199.1832849	1	bell
+203.5123258	0	Control	./Sounds/footsteps_CTRL.wav	205.4194985	206.0284985	1	noise
+210.4293358	0	Control	./Sounds/ROOSTER_CTRL.wav	213.6411431	214.1551431	1	noise
+218.6462293	0	Experimental	./Sounds/helicopter.wav	220.9538349	221.5218349	0	don't know
+225.9462013	0	Experimental	./Sounds/THUNDER.wav	230.6859302	231.4049302	1	thunder
+235.6949134	0	Control	./Sounds/Banjo_CTRL.wav	240.5052205	241.0142205	1	noise
+245.5282992	0	Control	./Sounds/DONKEY_CTRL.wav	249.3117654	250.0327654	1	noise
+254.3142923	0	Experimental	./Sounds/Flute.wav	258.5971376	259.1531376	0	instrument
+263.6045459	0	Control	./Sounds/Baskball_CTRL.wav	267.4442759	268.1492759	1	noise
+272.4556273	0	Experimental	./Sounds/clock.wav	274.2549884	274.9339884	1	timer
+279.2629959	0	Experimental	./Sounds/Bagpipes.wav	283.1376665	283.7746665	1	bagpipe
+288.1543341	0	Control	./Sounds/SNEEZE_CTRL.wav	289.545048	290.194048	1	noise
+294.5455454	0	Control	./Sounds/DOORBELL_CTRL.wav	297.2521689	298.2451689	1	noise
+302.2621825	0	Experimental	./Sounds/Clapping.wav	304.8536749	305.5086749	0	don't know
+309.8641381	0	Control	./Sounds/whip_CTRL.wav	311.3700478	311.9710478	1	noise
+316.3764697	0	Control	./Sounds/guitar_CTRL.wav	318.2868757	318.9528757	1	noise
+323.2950096	0	Experimental	./Sounds/LION.wav	326.9738207	327.6618207	1	lion
+331.9974135	0	Control	./Sounds/HARMONCA_CTRL.wav	337.0558208	337.7738208	1	noise
+342.0629177	0	Control	./Sounds/SHEEP_CTRL.wav	343.6025831	344.1615831	1	noise
+348.6128657	0	Experimental	./Sounds/Baskball.wav	352.4548444	353.1398444	1	ball
+357.4723498	0	Control	./Sounds/ZIPPER_CTRL.wav	359.3045236	359.9375236	1	noise
+364.3223787	0	Control	./Sounds/Whistle_CTRL.wav	366.4125646	366.9355646	1	noise
+371.429103	0	Experimental	./Sounds/monkey.wav	373.4265101	373.9985101	1	monkey
+378.4456586	0	Control	./Sounds/HARP_CTRL.wav	380.9528765	381.5638765	1	noise
+385.96271	0	Experimental	./Sounds/Crow.wav	389.6875936	390.5155936	1	crow
+394.6965013	0	Control	./Sounds/piano_CTRL.wav	396.5049907	397.2449907	1	noise
